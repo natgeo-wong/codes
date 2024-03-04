@@ -9,7 +9,7 @@ makedocs(;
     format   = DocumenterVitepress.MarkdownVitepress(
         repo       = "https://github.com/natgeo-wong/codes",
         devurl     = ".",
-        deploy_url = "natgeo-wong.github.io/codes",
+        deploy_url = "https://natgeo-wong.github.io/codes",
     ),
     pages    = [
         "Home" => "index.md"
